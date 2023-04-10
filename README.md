@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Data Science ✨
 
-🤔 I’m interested and very excited about A.I
+🤔 I’m interested and very excited about A.I, all ears to what you have to tell me about it.
 
 
 
