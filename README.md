@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariele !</h1>
-<h3 align="center">A passionate recent graduate in Data Science ✨</h3>
+<h3 align="center">Experienced Environmental Engineer and passionate recent graduate in Data Science ✨</h3>
 
 > 🤔 I’m interested and very excited about A.I, all ears to what you have to tell me about it.
 
